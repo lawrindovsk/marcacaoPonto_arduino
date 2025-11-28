@@ -50,4 +50,3 @@ O sistema mede a distância usando o sensor ultrassônico e, com base nisso:
 - Relógio RTC  
 - Integração com ESP32  
 - Interface com botões  
-"""
