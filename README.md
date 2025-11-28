@@ -1,4 +1,4 @@
-"""# 🕒 Batedor de Ponto Assistivo – Arduino (Wokwi)
+# 🕒 Batedor de Ponto Assistivo – Arduino (Wokwi)
 
 Projeto desenvolvido para simulação no **Wokwi**, utilizando **Arduino Uno**, **Sensor Ultrassônico HC-SR04**, **LCD 16x2 I2C** e **Buzzer**. O objetivo é criar um protótipo simples de **bater ponto assistivo**, detectando presença e exibindo mensagens no display.
 
